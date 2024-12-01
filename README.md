@@ -1,4 +1,4 @@
-# Update All Zammad Roles to Default Values
+# n8n Workflow: Update All Zammad Roles to Default Values
 
 This repository contains an n8n workflow designed to reset all user roles in a Zammad instance to specified default values. This ensures consistent role management and simplifies administrative tasks.
 
